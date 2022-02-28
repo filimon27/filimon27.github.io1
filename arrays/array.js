@@ -29,6 +29,8 @@
  * @param {Array} arr of numbers
  * @returns {number} sum of arr numbers
  */
+
+
 function sum(arr){
     let tot = 0;
     for (const number of arr){
