@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "jsdoc": "^3.6.10"
+  }
+}
