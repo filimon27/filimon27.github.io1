@@ -26,4 +26,8 @@
   let cube=function(num){
       return num*num*num;
   };
+
+  let square=function(num){
+    return num*num;
+};
  mycallBack(cube,25)

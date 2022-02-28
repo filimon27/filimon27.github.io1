@@ -11,7 +11,6 @@
  * @param {number} c is a number
  * @returns {number} largest of a, b, c
  */
- 
  function maxOfThree(a, b, c){ 
     
     if(a>b && a>c){
@@ -29,8 +28,6 @@
  * @param {Array} arr of numbers
  * @returns {number} sum of arr numbers
  */
-
-
 function sum(arr){
     let tot = 0;
     for (const number of arr){
